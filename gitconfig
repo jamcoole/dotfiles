@@ -1,7 +1,7 @@
 [user]
-	name = Jim Lawton
-#	email = jim.lawton@accenture.com
-	email = jim.lawton@gmail.com
+	name = James Cooley
+	email = james.cooley@accenture.com
+#	email = jamescooley01@googlemai.com
 [push]
 	default = simple
 [branch]
@@ -198,20 +198,20 @@
 	insteadOf = "ghg://"
 	pushInsteadOf = "ghg://"
 	# Example: git clone ghg://ntschutta/emacs
-[url "git://github.com/jimlawton/"]
+[url "git://github.com/jamcoole/"]
 	insteadOf = "ghgj://"
 	pushInsteadOf = "ghgj://"
 	# Example: git clone ghgj://hellogitworld
 [url "git@github.com:"]
 	insteadOf = "ghs://"
 	pushInsteadOf = "ghs://"
-[url "git@github.com:jimlawton/"]
+[url "git@github.com:jamcoole/"]
 	insteadOf = "ghsj://"
 	pushInsteadOf = "ghsj://"
 [url "https://github.com/"]
 	insteadOf = "ghh://"
 	pushInsteadOf = "ghh://"
-[url "https://github.com/jimlawton/"]
+[url "https://github.com/jamcoole/"]
 	insteadOf = "ghhj://"
 	pushInsteadOf = "ghhj://"
 
@@ -247,13 +247,13 @@
 [gh]
 protocol = https
 #[github]
-#	user = jimlawton
+#	user = jamcoole
 #[credential]
 #	helper = osxkeychain
 
 [github]
 [github]
-	user = jimlawton
+	user = jamcoole
 	#token = PLACEHOLDER
 
 [http]
